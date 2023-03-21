@@ -1,5 +1,5 @@
 {
-    "name": "stanliwise/stan-totp",
+    "name": "stanliwise/totp",
     "description": "This package Enables you to generate HOTP and TOTP token",
     "type": "totp-plugin",
     "version": "1.2.14",
