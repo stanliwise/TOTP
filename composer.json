@@ -1,0 +1,11 @@
+{
+    "name": "local/stan-totp",
+    "description": "This package Enables you to generate HOTP and TOTP token",
+    "type": "totp-plugin",
+    "version": "1.2.14",
+    "autoload": {
+        "psr-4": {
+            "OTP\\" : "src/"
+        }
+    }
+}
